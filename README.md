@@ -32,7 +32,7 @@ contact me telegram :- @goldsmmhs
 
 my channel on Telegram:- @trickshidik
 
-nstagramm :- _hardik_k_
+INSTAGRAM :- _hardik_k_
 
 whatsapp :- +91 95091 20683
 
