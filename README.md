@@ -20,13 +20,13 @@ $ git clone https://github.com/hardikhacker/indian-ig-followers-by-hardik-kasliw
 
 $ cd instafollowers
 
-$ chmod +x insfollow.sh
+$ chmod +x Igfollowers.sh
 
 $ termux-wake-lock
 
 $ bash Igfollowers.sh
 
-#contact
+# contact
 
 contact me telegram :- @goldsmmhs
 my channel on Telegram:- @trickshidik
@@ -36,4 +36,4 @@ instagram :- _hardik_k_
 
 please don't use it for lonher time otherwise Instagram can bann you
 
-#hope you will like it ❤️
+# hope you will like it ❤️
