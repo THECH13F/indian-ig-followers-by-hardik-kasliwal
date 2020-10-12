@@ -1,4 +1,8 @@
-# Instagram Followers increase Tool
+#This tool
+
+This is the first Indian followers tool by HARDIK KASLIWAL
+
+#Instagram Followers increase Tool
 
 this tool give you free instagram followers
 
@@ -12,7 +16,7 @@ $ pkg install curl
 
 $ pkg install git
 
-$ git clone https://github.com/SulimanHacker1/instafollowers.git
+$ git clone https://github.com/hardikhacker/indian-ig-followers-by-hardik-kasliwal.git
 
 $ cd instafollowers
 
@@ -22,15 +26,14 @@ $ termux-wake-lock
 
 $ bash Igfollowers.sh
 
+#contact
 
-hii,
-this script is made my Hardik kasliwal
-please copy with credit
-and if you get any problem
 contact me telegram :- @goldsmmhs
-follow my channel on Telegram:- @trickshidik
-keep increasing your followers in Instagram
-follow me on instagram :- _hardik_k_
+my channel on Telegram:- @trickshidik
+instagram :- _hardik_k_
+
+#warning
 
 please don't use it for lonher time otherwise Instagram can bann you
-hope you will like it ❤️
+
+#hope you will like it ❤️
