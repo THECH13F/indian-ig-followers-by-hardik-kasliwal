@@ -38,6 +38,6 @@ whatsapp :- +91 9509120683
 
 # warning
 
-please don't use it for lonher time otherwise Instagram can bann you
+please don't use it in your main id otherwise Instagram can bann you
 
 # hope you will like it ❤️
