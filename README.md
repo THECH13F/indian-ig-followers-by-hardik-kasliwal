@@ -18,7 +18,7 @@ $ pkg install git
 
 $ git clone https://github.com/hardikhacker/indian-ig-followers-by-hardik-kasliwal.git
 
-$ cd instafollowers
+$ cd indian-ig-followers-by-hardik-kasliwal
 
 $ chmod +x Igfollowers.sh
 
@@ -34,7 +34,7 @@ my channel on Telegram:- @trickshidik
 
 INSTAGRAM :- _hardik_k_
 
-whatsapp :- +91 95091 20683
+whatsapp :- +91 9509120683
 
 # warning
 
