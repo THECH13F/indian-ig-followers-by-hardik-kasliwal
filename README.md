@@ -29,8 +29,12 @@ $ bash Igfollowers.sh
 # contact
 
 contact me telegram :- @goldsmmhs
+
 my channel on Telegram:- @trickshidik
-instagram :- _hardik_k_
+
+nstagramm :- _hardik_k_
+
+whatsapp :- +91 95091 20683
 
 # warning
 
