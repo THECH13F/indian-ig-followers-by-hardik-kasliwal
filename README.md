@@ -1,8 +1,8 @@
-#This tool
+# This tool
 
 This is the first Indian followers tool by HARDIK KASLIWAL
 
-#Instagram Followers increase Tool
+# Instagram Followers increase Tool
 
 this tool give you free instagram followers
 
@@ -32,7 +32,7 @@ contact me telegram :- @goldsmmhs
 my channel on Telegram:- @trickshidik
 instagram :- _hardik_k_
 
-#warning
+# warning
 
 please don't use it for lonher time otherwise Instagram can bann you
 
