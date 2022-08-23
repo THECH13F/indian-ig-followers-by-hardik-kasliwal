@@ -7,7 +7,7 @@ This is the first Indian followers tool by HARDIK KASLIWAL
 this tool give you free instagram followers
 
 # How to Install
-
+```
 $ pkg update -y && pkg upgrade 
 
 $ pkg install openssl-tool
@@ -27,8 +27,8 @@ $ termux-wake-lock
 $ bash Igfollowers.sh
 
 # contact
-
-contact me telegram :- @goldsmmhs
+```
+contact me telegram :- @THE_CH13F_OFFICIAL
 
 my channel on Telegram:- @trickshidik
 
